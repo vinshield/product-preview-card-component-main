@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot 2023-08-20 at 18-28-18 Frontend Mentor Product preview card component.png)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-card-component-using-css-grid-taACKQCR6z)
+- Live Site URL: [Visit live site](https://vinshield.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -67,6 +67,5 @@ I also learnt to use hidden html elements to provide important information for s
 
 ## Author
 
-- Website - [Jesse](https://www.your-site.com)
 - Frontend Mentor - [@vinshield](https://www.frontendmentor.io/profile/vinshield)
 - Twitter - [@jeslelacodes](https://www.twitter.com/jeslelacodes)
